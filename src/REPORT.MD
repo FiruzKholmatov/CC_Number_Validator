@@ -18,7 +18,7 @@
 
 
 В качестве тестовых данных использовались данные 
-* данные валидных карт с сайта [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html)
+* список валидных карт с сайта [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
 Тестирование производилось в следующем окружении:
 * Windows 10, 64x
